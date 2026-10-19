@@ -14,7 +14,13 @@ Away from the keyboard, you'll usually find me on a trail. I love hiking, ideall
 - **Redesigns and migrations** of existing applications, without breaking what already works
 - **Front-end architecture** and code quality on long-lived projects
 
-**Stack:** React · TypeScript · Next.js · Tailwind CSS · Supabase
+<!-- À ajuster : garde uniquement ce que tu veux vendre -->
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?logo=tanstack&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ## Background
 
@@ -25,10 +31,11 @@ Away from the keyboard, you'll usually find me on a trail. I love hiking, ideall
 
 ## Side project
 
-**[RandoNavigo](https://www.randonavigo.fr/)**: hikes in the Île-de-France region, all reachable by public transport. Designed and built end to end: content, design, development.
+**[RandoNavigo](https://URL-RANDONAVIGO)**: hikes in the Île-de-France region, all reachable by public transport. Designed and built end to end: content, design, development.
 
 ## Get in touch
 
-- Website: [michaelperrin.fr](https://www.michaelperrin.fr/)
-- LinkedIn: [linkedin.com/in/perrinmichael/](https://www.linkedin.com/in/perrinmichael/)
-- Malt: [malt.fr/profile/michaelperrin](https://www.malt.fr/profile/michaelperrin)
+- Website: [michaelperrin.fr](https://michaelperrin.fr) <!-- à vérifier -->
+- LinkedIn: [linkedin.com/in/…](https://www.linkedin.com/in/TON-PROFIL)
+- Malt: [malt.fr/profile/…](https://www.malt.fr/profile/TON-PROFIL)
+- Email: contact@michaelperrin.fr
